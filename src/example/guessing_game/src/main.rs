@@ -1,9 +1,9 @@
 use std::io;
 fn main() {
 
-    println!("Welcome to guessing game!");
+    println!("Guess the number!");
 
-    println!("Please input the guess number");
+    println!("Please input your guess.");
 
     let mut guess = String::new();
 
