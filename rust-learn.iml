@@ -5,8 +5,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/example/guessing_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/example/temperature_converter/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/guesing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/guessing_game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/example/temperature_converter/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
