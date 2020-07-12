@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/example/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/example/temperature_converter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/example/fibonacci/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/example/fibonacci/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/guesing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/temperature_converter/target" />
